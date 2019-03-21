@@ -1,2 +1,3 @@
-# explore-pgm
-Exploring probabilistic graphical models
+# Exploring Probabilistic Graphical Models
+
+Run ``bash setup.sh``.
