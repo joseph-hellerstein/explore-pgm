@@ -1,8 +1,5 @@
-# pip install networkx
-# pip instal pgmpy
-# conda install -c ankurankan pgmpy
-# Clones a second re
-conda install seaborn scipy
+# Clones installs dependencies for pgmpy and then installs pgmpy
+# for python3
+conda install seaborn scipy wrapt
 cd  pgmpy
 python setup.py install
-#conda install mpl_toolkits
